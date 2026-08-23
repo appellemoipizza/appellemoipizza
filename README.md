@@ -28,12 +28,7 @@ music, drawing, film photography and 3d on the side.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=appellemoipizza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=appellemoipizza&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=appellemoipizza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%" />
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=appellemoipizza&theme=tokyonight&no-frame=true&row=1&column=6)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=appellemoipizza&theme=tokyonight&hide_border=true" width="60%" />
 
 </div>
 
