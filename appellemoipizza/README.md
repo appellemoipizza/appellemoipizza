@@ -12,7 +12,7 @@ passionate about music, drawing, film photography, 3d
 and art in general.</pre>
     </td>
     <td valign="middle" align="center" width="42%">
-      <img src="appellemoipizza/assets/soul-reaper.gif" alt="Soul Reaper animation" height="250">
+      <img src="assets/soul-reaper.gif" alt="Soul Reaper animation" height="250">
     </td>
   </tr>
 </table>
